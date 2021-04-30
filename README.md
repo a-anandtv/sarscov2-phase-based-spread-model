@@ -4,6 +4,20 @@ A disease spread simulation based on the paper titled *“A mathematical model f
 
 ### Phase based model diagram
 
+<p align="center">
+  <img src="https://github.com/a-anandtv/sarscov2-phase-based-spread-model/blob/main/Resources/RPmodel.png" width="80%">
+</p>
+
 ### Model simulation results (with pre-fit initial values)
 
-### Model simulation results (with assumed initial values)
+*Simulation Results*
+
+<p align="center">
+  <img src="https://github.com/a-anandtv/sarscov2-phase-based-spread-model/blob/main/Resources/120days.png" width="80%">
+</p>
+
+*Simulation comparison with actual data*
+
+<p align="center">
+  <img src="https://github.com/a-anandtv/sarscov2-phase-based-spread-model/blob/main/Resources/realVsSimulated.png" width="80%">
+</p>
